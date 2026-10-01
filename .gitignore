@@ -1,0 +1,8 @@
+/mydisk.img
+/myfs
+/initdisk*
+*.d
+/testmount
+.DS_Store
+/cs1550_fs_main
+/cs1550_fs_main-sol.c
